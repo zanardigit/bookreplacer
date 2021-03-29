@@ -1,0 +1,43 @@
+[
+    {
+        "titolo" : "Harry Potter e il calice di fuoco",
+        "stato" : "In sospeso",
+        "anno" : "2000",
+        "copertina" : "img/harry-potter-e-il-calice-di-fuoco.jpg"
+    },
+
+    {
+        "titolo" : "Harry Potter e i doni della morte",
+        "stato" : "Respinto",
+        "anno" : "2007",
+        "copertina" : "img/harry-potter-e-i-doni-della-morte.jpg"
+    },
+
+    {
+        "titolo" : "Harry Potter e la camera dei segreti",
+        "stato" : "In prestito",
+        "anno" : "1998",
+        "copertina" : "img/harry-potter-e-la-camera-dei-segreti.jpg"
+    },
+
+    {
+        "titolo" : "Harry Potter e la pietra filosofale",
+        "stato" : "Annullato",
+        "anno" : "1997",
+        "copertina" : "img/harry-potter-e-la-pietra-filosofale.jpg"
+    },
+
+    {
+        "titolo" : "Harry Potter e l'ordine della fenice",
+        "stato" : "In ritardo",
+        "anno" : "2003",
+        "copertina" : "img/harry-potter-e-l'ordine-della-fenice.jpg"
+    },
+
+    {
+        "titolo" : "Harry Potter e il prigioniero di Azkaban",
+        "stato" : "Restituito",
+        "anno" : "1999",
+        "copertina" : "img/harry-potter-e-il-prigioniero-di-azkaban.jpg"
+    }
+]
